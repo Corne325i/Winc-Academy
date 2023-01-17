@@ -4,6 +4,8 @@ __human_name__ = 'strings'
 
 # Add your code after this line
 
+#feedback in het nederlands graag :)
+
 #part 1
 
 player_score1 = ("Ruud Gullit")
