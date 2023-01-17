@@ -1,2 +1,0 @@
-# Winc-Academy
-Learning projects
